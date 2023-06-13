@@ -21,4 +21,4 @@ In proceedings of the 30th annual ACM symposium on User Interface Software and T
 Shan-Yuan Teng, Mu-Hsuan Chen, **Yung-Ta Lin**. <br>
 In proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems. ACM, New York, NY, USA.
 
-### [[Dowload CV]](../assets/2022-SS-Lynda-FE-Resume.pdf) 
+### [[Dowload CV]](../assets/Lynda_2023_SS_Resume.pdf)
