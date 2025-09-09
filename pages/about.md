@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title:
 ---
 
 <img src="../assets/img/LyndaBanner.jpg">
@@ -10,9 +10,10 @@ That's why I did Human Computer Interaction (HCI) research in graduate school, a
 Now, I'm looking forward to exploring more on front-end, or application engineer positions.  
 <br>
 Besides technology, I also have a great passion for art and design (check my [Instagram](https://www.instagram.com/ynda.lyn/) below). 
-In the future, I expect myself to be the role who bridge art and technology and make something impressive. 
+In the future, I expect myself to be the role who bridge art and technology and make something impressive.
 
 #### Achievements
+
 **Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a 360 Video Using Spatial Picture-in-Picture Previews.** <br>
 **Yung-Ta Lin**, Yi-Chi Liao, Shan-Yuan Teng, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen. <br>
 In proceedings of the 30th annual ACM symposium on User Interface Software and Technology (UIST’17). ACM, New York, NY, USA.
@@ -21,4 +22,4 @@ In proceedings of the 30th annual ACM symposium on User Interface Software and T
 Shan-Yuan Teng, Mu-Hsuan Chen, **Yung-Ta Lin**. <br>
 In proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems. ACM, New York, NY, USA.
 
-### [[Dowload CV]](../assets/Lynda_2023_SS_Resume.pdf)
+### [[Dowload CV]](../assets/Lynda_2025_Resume.pdf)
